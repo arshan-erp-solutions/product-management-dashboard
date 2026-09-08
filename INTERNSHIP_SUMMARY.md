@@ -252,5 +252,5 @@ This project demonstrated my ability to:
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Muhammad Arshan*
 *Internship Task 02 - Product Management Dashboard*
